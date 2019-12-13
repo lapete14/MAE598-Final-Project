@@ -1,0 +1,1 @@
+The folder of files that ANSYS uses for DeltaWing is too large for GitHub to accept. Please follow this dropbox link to access the folder.
